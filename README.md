@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhamsahoo01
-- 👀 I’m interested in machine learning and data engineering, data analytics.
+- 👀 I’m interested in machine learning , data engineering and  data analytics.
 - 🌱 I’m currently learning python and sql for this. I have past experinece in power bi. 
 - 💞️ I’m looking to collaborate on any projects related to the field.
 - 📫 reach me @subham11rkl@gmail.com
